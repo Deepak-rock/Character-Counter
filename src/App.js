@@ -1,6 +1,7 @@
+import CounterApp from './components/CounterApp'
 import './App.css'
 
 // Replace your code here
-const App = () => <h1>Hello, World</h1>
+const App = () => <CounterApp />
 
 export default App
